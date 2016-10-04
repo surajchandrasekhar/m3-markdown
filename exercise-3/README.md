@@ -7,5 +7,14 @@ In the space below, you'll provide some information about a terminal command you
 A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
+# cd
+can be used to enter a folder. For example:
+
+`cd Desktop`
+
+More info about cd:
+
+- .. opens previous folder
+- cd itself goes to user folder 
 
 See `complete` branch for answers.
